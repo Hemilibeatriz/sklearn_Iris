@@ -1,0 +1,1 @@
+Uso da biblioteca SKLearn para aplicação de aprendizado de máquina no dataset Iris. O conjunto de dados iris é um conjunto de dados de classificação multiclasse clássico e de fácil compreensão.
